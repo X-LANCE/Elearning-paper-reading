@@ -1,0 +1,10 @@
+Tuning Language Models by Proxy
+：利用代理小模型微调后和微调前的logits残差对大模型进行微调的工作。
+
+CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex
+Knowledge Graph Question Answering：
+利用思维链的提示方法，提出的一种将知识图谱重写为语言结构的一种方法。
+
+REAR: A Relevance-Aware Retrieval-Augmented Framework for
+Open-Domain Question Answering
+：一种RAG方法。通过对外部信息与问题的相关性和与模型内部知识一致性的标准，评估了外部信息对于模型的价值，并基于此生成了回答。为了达成该目的提出了一系列的相关性和一致性衡量标准。

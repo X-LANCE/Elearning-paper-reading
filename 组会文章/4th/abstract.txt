@@ -1,0 +1,3 @@
+StructEval: Deepen and Broaden Large Language Model Assessment
+via Structured Evaluation：
+提出了一种基于深度和广度的结构化的大模型评估方式。基于此种方式获得的模型评分在能够充分反映模型性质的同时，具有更好的一致性。

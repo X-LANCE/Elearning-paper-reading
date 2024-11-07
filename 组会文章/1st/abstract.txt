@@ -1,0 +1,10 @@
+SOCIODOJO: BUILDING LIFELONG ANALYTICAL
+AGENTS WITH REAL-WORLD TEXT AND TIME SERIES
+：大模型在理解世界方面的应用。
+主要贡献：提出超投资组合的世界模型。新的探索性的promt方式。分析者，助手投资者模型结构 的提出
+
+From human experts to machines: An LLM
+supported approach to ontology and knowledge
+graph construction：
+：利用大模型，基于本体实现知识图谱的自动构建
+主要贡献：提出了基于大模型构建知识图谱的流水线。

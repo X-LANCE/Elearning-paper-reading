@@ -1,0 +1,7 @@
+OVERTHINKING THE TRUTH: UNDERSTANDING HOW
+LANGUAGE MODELS PROCESS FALSE DEMONSTRATIONS
+：形似类似实验报告，系统性的分析了在上下文学习问题中，在给出错误的示例后，大模型产生错误回答的机理。文章指出其主要源模型于后部层中部分注意力头。
+
+ROFORMER: ENHANCED TRANSFORMER WITH ROTARY
+POSITION EMBEDDING：
+提出了一种新的位置编码形式，旋转位置编码。利用旋转矩阵的性质很好的表征了嵌入向量间的相对位置。
